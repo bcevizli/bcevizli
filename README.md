@@ -24,6 +24,10 @@ I’ve been learning to code for 1 year, after switching careers. I started with
 
 <p align="left"> <a href="https://www.github.com/bcevizli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/burakcevizli7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bcevizli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@burak.cevizli7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
+### Simulator Image
+
+<img src=“https://raw.githubusercontent.com/bcevizli/bcevizli/main/iosGitProfile.jpeg”>
+
 ### Badges
 
 <b>My GitHub Stats</b>
