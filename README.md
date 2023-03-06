@@ -26,7 +26,8 @@ I’ve been learning to code for 1 year, after switching careers. I started with
 
 ### Simulator Image
 
-<img src=“https://raw.githubusercontent.com/bcevizli/bcevizli/main/iosGitProfile.jpeg”>
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/bcevizli/bcevizli/main/iosGitProfile.jpeg))
+
 
 ### Badges
 
