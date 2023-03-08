@@ -27,6 +27,7 @@ I’ve been learning to code for 1 year, after switching careers. I started with
 ### Projects
 
 ![http://url/to/img.png](https://raw.githubusercontent.com/bcevizli/bcevizli/main/iosGitProfile.jpeg)
+![http://url/to/img.png](https://raw.githubusercontent.com/bcevizli/bcevizli/main/simulatorPhoto2.jpeg)
 
 
 ### Badges
